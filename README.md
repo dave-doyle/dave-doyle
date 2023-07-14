@@ -1,4 +1,4 @@
-## Hellow World 👋 Dave here
+## Hello World 👋 Dave here
 ### Computer Science Masters Student At UCD Ireland.
 
 Welcome to my GitHub profile!
