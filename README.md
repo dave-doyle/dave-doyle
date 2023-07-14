@@ -1,16 +1,29 @@
-### Hi there 👋
+### Hi there 👋 Dave here, previous pharmacist, current computer science masters student at UCD Ireland.
 
-<!--
-**dave-doyle/dave-doyle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+    🔭 I'm currently working on Tourify, a React based web application using machine learning and geolocation to help users explore the city of Manhattan.
+    🌱 I'm constantly learning and expanding my skills, particularly in Javacript, Python and React.
+    👯 I'm always open to collaborating on interesting projects and contributing to the open-source community.
+    📫 You can reach me via david.doyle7@ucdconnect.ie.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about coding and creating innovative solutions. Don't hesitate to reach out if you have any questions or suggestions.
+
+Thanks for visiting, and happy coding! 🚀
+
+### Technical Skills Toolbox
+
+<div align="center">
+
+| Languages    | Frameworks     | Databases   | Tools        |
+| ------------ | -------------- | ----------- | ------------ |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="30">        | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="30">          | <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/MySQL_logo.svg" height="30">        | <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" height="30">          |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="30">         |                 | <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" height="30">     | <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" height="30">       |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="30">   |                 |               | <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" height="30">       |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="30">       |                 |             |              |
+| <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" height="30">         | <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg" height="30">         |             |              |
+|          |                |             |              |
+
+</div>
+
+
