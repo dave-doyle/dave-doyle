@@ -26,6 +26,11 @@ Thanks for visiting, and happy coding! 🚀
 
 </div>
 
+## Contact me at: david.doyle7@ucdconnect.ie
+
+![Swordfish GIF](https://media0.giphy.com/media/l2R04wcEprpUFvrC8/giphy.gif?cid=ecf05e47j7zcndbcsulqo7d61o9rfk4hc52q0otw563uhdt1&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
+
 
 
 
