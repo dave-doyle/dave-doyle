@@ -1,9 +1,10 @@
-### Hi there 👋 Dave here, previous pharmacist, current computer science masters student at UCD Ireland.
+## Hellow World 👋 Dave here
+### Computer Science Masters Student At UCD Ireland.
 
 Welcome to my GitHub profile!
 
     🔭 I'm currently working on Tourify, a React based web application using machine learning and geolocation to help users explore the city of Manhattan.
-    🌱 I'm constantly learning and expanding my skills, particularly in Javacript, Python and React. Hoping to learn Go in the future.
+    🌱 I'm constantly learning and expanding my skills, particularly in Javacript, Python and React and exited to learn Go in the future.
     👯 I'm always open to collaborating on interesting projects and contributing to the open-source community.
     📫 You can reach me via david.doyle7@ucdconnect.ie.
 
