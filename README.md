@@ -17,7 +17,7 @@ Thanks for visiting, and happy coding! 🚀
 
 | Languages    | Frameworks     | Databases   | Tools        |
 | ------------ | -------------- | ----------- | ------------ |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="30">        | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="30">          | <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/MySQL_logo.svg" height="30">        | <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" height="30">          |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="30">        | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="30">          | <img src="mysql_logo.png" height="30">         | <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" height="30">          |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="30">         |                 | <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" height="30">     | <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" height="30">       |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="30">   |                 |               | <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" height="30">       |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="30">       |                 |             |              |
@@ -25,5 +25,7 @@ Thanks for visiting, and happy coding! 🚀
 |          |                |             |              |
 
 </div>
+
+
 
 
