@@ -3,8 +3,7 @@
 
 Welcome to my GitHub profile!
 
-    🔭 I'm currently working on Tourify, a React based web application using machine learning and geolocation to help users explore the city of Manhattan.
-    🔭 The current version of Tourify is available here https://csi6220-2-vm1.ucd.ie/. The repository will be public once the project is finished.
+    🔭 Most recently working on Tourify, a React based web application using machine learning and geolocation to help users explore the city of Manhattan.
     🌱 I'm constantly learning and expanding my skills, particularly in Javacript, Python and React and exited to learn Go in the future.
     👯 I'm always open to collaborating on interesting projects and contributing to the open-source community.
     📫 You can reach me via david.doyle7@ucdconnect.ie.
