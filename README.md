@@ -1,5 +1,5 @@
 ## Hello World 👋 Dave here
-### Computer Science Masters Student At UCD Ireland.
+### Computer Science Masters Graduate At UCD Ireland.
 
 Welcome to my GitHub profile!
 
