@@ -7,7 +7,7 @@ Welcome to my GitHub profile!
     ⚡ Tech I use daily: React (TypeScript), Python (FastAPI), LangChain, AWS (Lambda, Cognito, Bedrock, CodeArtifact), GCP, MongoDB.
     🤖 LLM Experience: Prompt engineering with ChatGPT, Claude (Haiku & Sonnet), Jinja2 templating, LiteLLM, MCP, and RAG pipelines for document retrieval.
     🌱 Currently exploring: Deploying local LLMs on edge hardware (e.g., NVIDIA Jetson Orin) — experimenting with model optimization, quantization, and LoRA fine-tuning to enable real time efficiency.
-       Also investigating graph based approaches for AI agent context and memoery retrieval.
+       Also investigating graph based approaches for AI agent context and memory retrieval.
     👯 Open to collaborate on: Projects in AI/LLMs, full-stack web apps, and cloud-native solutions.
     📫 Reach me at: daviddoyle996@gmail.com
 
